@@ -1,0 +1,877 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Institucional - Instituto José Manuel Estrada</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="author" content="SaucoVision">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <meta name="description" content="Colegio Jose Manuel Estrada City Bell.">
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="logochi.png">
+        <link rel="apple-touch-icon" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="logochi.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="css/vendors.min.css"/>
+        <link rel="stylesheet" href="css/icon.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/responsive.css"/>
+        <link rel="stylesheet" href="demos/charity/charity.css" />
+    </head>
+    <body data-mobile-nav-style="classic">
+        <!-- start header -->
+        <header class="header-with-topbar"> 
+            <div class="header-top-bar top-bar-light bg-gradient-corduroy-green-dark-goldenrod disable-fixed">
+                <div class="container-fluid">
+                    <div class="row h-42px align-items-center justify-content-center">
+                        <div class="col-auto text-center">
+                            <span class="bg-black-transparent-light ps-15px pe-15px d-inline-block align-middle fs-10 text-uppercase text-white border-radius-4px fw-700 me-15px lh-26">Instituto José Manuel Estrada</span>
+                            <div class=" d-inline-block align-middle fs-12 text-white text-uppercase fw-500">Inscripciones 2025. <a href="contacto" class="text-decoration-line-bottom text-white">Contáctanos</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light border-bottom border-color-transparent-dark-very-light  disable-fixed background-position-left-top" style="background-image: url('images/demo-charity-home-bg-01.jpg')">
+                <div class="container-fluid justify-content-lg-start">
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="default-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="alt-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="mobile-logo"> 
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order left-nav">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav"> 
+                            <ul class="navbar-nav"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                  <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto ms-auto d-none d-xl-flex">
+                        <div class="header-icon">
+                        
+                            <div class="header-button"><a href="contacto" class="btn btn-very-small btn-dark-gray btn-box-shadow btn-round-edge">Inscribite</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </nav>
+            <!-- start push popup --> 
+        </header>
+        
+        <!-- end header -->
+        <!-- start page title -->
+        
+        <!-- end page title -->
+        <!-- start section --> 
+        <section>
+      <section class="big-section position-relative ">
+            <div id="particles-01" data-particle="true" data-particle-options="{&quot;particles&quot;: {&quot;number&quot;: {&quot;value&quot;: 10,&quot;density&quot;: {&quot;enable&quot;: true,&quot;value_area&quot;: 1000}},&quot;color&quot;:{&quot;value&quot;:[&quot;#0072ae&quot;, &quot;#c83c2d&quot;]},&quot;shape&quot;: {&quot;type&quot;: &quot;circle&quot;,&quot;stroke&quot;:{&quot;width&quot;:0,&quot;color&quot;:&quot;#737373&quot;}},&quot;opacity&quot;: {&quot;value&quot;: 0.7,&quot;random&quot;: false,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;speed&quot;: 1,&quot;sync&quot;: false}},&quot;size&quot;: {&quot;value&quot;: 7,&quot;random&quot;: true,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;sync&quot;: true}},&quot;move&quot;: {&quot;enable&quot;: true,&quot;speed&quot;:1,&quot;direction&quot;: &quot;right&quot;,&quot;random&quot;: false,&quot;straight&quot;: false}},&quot;interactivity&quot;: {&quot;detect_on&quot;: &quot;canvas&quot;,&quot;events&quot;: {&quot;onhover&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;repulse&quot;},&quot;onclick&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;push&quot;},&quot;resize&quot;: false}},&quot;retina_detect&quot;: false}" class="position-absolute top-50px left-0px w-100 z-index-minus-1"><canvas class="particles-js-canvas-el" width="1634" height="817" style="width: 100%; height: 100%;"></canvas></div>
+            <div class="container">
+                <div class="row justify-content-center ">
+                    <div class="col-xxl-7 col-xl-8 col-lg-10 col-md-11 text-center">
+                        <h1 class="fw-700 text-dark-gray ls-minus-1px">Historia del colegio</h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 text-center appear anime-complete" data-anime="{ &quot;rotateX&quot;: [-40, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 100, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="">
+                        <div class="swiper swiper-horizontal-3d pt-8 pb-5 lg-pt-10 lg-pb-10 md-pt-12 sm-pt-15 sm-pb-11 swiper-pagination-bottom testimonials-style-04 swiper-coverflow swiper-3d swiper-initialized swiper-horizontal swiper-watch-progress" data-slider-options="{ &quot;loop&quot;: true, &quot;slidesPerView&quot;: 1,&quot;centeredSlides&quot;:true,&quot;effect&quot;:&quot;coverflow&quot;,&quot;coverflowEffect&quot;:{&quot;rotate&quot;:0,&quot;stretch&quot;:100,&quot;depth&quot;:150,&quot;modifier&quot;:1.5,&quot;slideShadows&quot;:true}, &quot;navigation&quot;: { &quot;nextEl&quot;: &quot;.swiper-button-next-nav.slider-navigation-style-04&quot;, &quot;prevEl&quot;: &quot;.swiper-button-previous-nav.slider-navigation-style-04&quot; }, &quot;autoplay&quot;: { &quot;delay&quot;: 5000, &quot;disableOnInteraction&quot;: false }, &quot;pagination&quot;: { &quot;el&quot;: &quot;.swiper-pagination-04&quot;, &quot;clickable&quot;: true, &quot;dynamicBullets&quot;: true }, &quot;breakpoints&quot;: { &quot;768&quot;: { &quot;slidesPerView&quot;: 2 } } }">
+                            <div class="swiper-wrapper" id="swiper-wrapper-c1096105c401f5890b" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-892.5px, 0px, 0px); transition-delay: 0ms;">
+                                <!-- start testimonial item -->
+                                
+                                <!-- end testimonial item -->
+                                <!-- start testimonial item -->
+                                
+                                <!-- end testimonial item -->
+                                <!-- start testimonial item -->
+                                
+                                <!-- end testimonial item -->
+                                <!-- start testimonial item -->
+                                
+                                <!-- end testimonial item -->
+                            <div class="swiper-slide bg-white border-radius-4px" role="group" aria-label="4 / 4" data-swiper-slide-index="3" style="width: 595px; transition-duration: 0ms; transform: translate3d(300px, 0px, -450px) rotateX(0deg) rotateY(0deg) scale(1); z-index: -2;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="1.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Inicios</span>
+                                            <p class="mb-25px">El 14 de mayo de 1956, unidas por ideales apostólicos e inspiradas en la filosofía de José Manuel Estrada, las señoritas Celina Fernandez, Inés Álvarez, Emilia Castro, Susana D’Elía y Haydeé Bonfiglio fundan el primer colegio católico y privado en City Bell.
+
+La casa ubicada sobre calle Cantilo y el pequeño patio, eran estrictamente el edificio original, el cual fue alquilado hasta 1967, año en el que se concreta su compra.
+
+La escuela comienza sus actividades con dos salitas de jardín y tres cursos de primaria. En total sumaban 35 alumnos.  Para 1957 la cantidad de alumnos se había triplicado por lo cual debieron incorporarse 5 docentes más.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 3; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-prev" role="group" aria-label="1 / 4" data-swiper-slide-index="0" style="width: 595px; transition-duration: 0ms; transform: translate3d(150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: -1;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="2.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Piedra fundamental</span>
+                                            <p class="mb-25px">En el año 1958 se tramita la oficialización de la escuela y al poco tiempo se adquieren los dos primeros terrenos sobre Jorge Bell. El 28 de noviembre de 1959 se realiza el acto de colocación y bendición de la piedra fundamental del nuevo edificio, sobre la diagonal Jorge Bell.
+
+En julio del año 1961 se adquieren otros dos lotes adyacentes, sobre los cuales se construyen las actuales aulas 1 y 2. El 5 de mayo de 1962 se inaugura el mástil de la escuela, recibiendo la bendición del Padre Blas Marsiscano. Luego se completa el bloque con la construcción de la actual aula 3.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 1.5; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-fully-visible swiper-slide-active" role="group" aria-label="2 / 4" data-swiper-slide-index="1" style="width: 595px; transition-duration: 0ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 1;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="3.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Nuevas aulas</span>
+                                            <p class="mb-25px">El 8 de mayo de 1965 se inauguran las nuevas aulas, con la presencia del Sr Arzobispo de La Plata, Monseñor Dr. Antonio J. Plaza y durante ese mismo año se inician las gestiones para la incorporación del nivel medio (secundario).
+Para dar respuesta al creciente número de alumnos, en el año 1967 se compra el chalet lindero a la escuela, sobre Jorge Bell, para que funcione allí el Jardín de Infantes. También se construyen las actuales aulas 4 y 5, y se concreta la compra de la casa original sobre la calle Cantilo</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="4.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Primera promoción bachiller</span>
+                                            <p class="mb-25px">El colegio ofrecía dos modalidades: el Bachillerato en Letras con orientación humanística que tenía una duración de 5 años y el Bachillerato Comercial con una duración de 6 años. En 1970 egresa la primera promoción de alumnos del Bachillerato en Letras y al año siguiente la primera del Bachillerato Comercial.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="5.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">25° aniversario</span>
+                                            <p class="mb-25px">Hacia 1980 se completa la construcción en la planta baja del edificio y se comienza la planta alta con la construcción de las aulas 6, 7 y 8. En el año 1982, por resolución ministerial, el Jardín de Infantes se independiza del nivel primario.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="6.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Fundación J.M. Estrada</span>
+                                            <p class="mb-25px">En 1991 la Fundación José Manuel Estrada, fundación sin fines de lucro conformada por matrimonios del Movimiento Apostólico de Schöenstatt y apoyada en los principios pedagógicos del Padre José Kentenich, asume la responsabilidad de continuar la obra iniciada por las cinco maestras con el fin de brindar una renovada propuesta educativa a las familias de nuestra ciudad.
+Apuesta a un nuevo crecimiento de la institución y adquiere la tradicional casona perteneciente a la familia Martínez Quintana, poseedora de la escritura Nº 1 del pueblo donde comienza a funcionar allí el Jardín de Infantes. Este cambio permite duplicar turnos, ampliar la cantidad de alumnos en el nivel inicial y primario.
+También el colegio adquiere una fracción de terreno lindero a la casa original donde se construye una ermita dedicada a Nuestra Señora de Schönstatt, y se suman tres nuevas aulas sobre Jorge Bell. Posteriormente se construye el Salón de Usos Múltiples (SUM) y la galería superior, como primer paso de un gran proyecto.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="7.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Nueva sede</span>
+                                            <p class="mb-25px">El 18 de diciembre del año 2001 la Fundación José Manuel Estrada adquiere el colegio Saint Catherine situado en calle 17, asumiendo la totalidad del alumnado y del personal y dispone de esta nueva sede para el desarrollo del proyecto global.
+De esta manera la comunidad educativa asciende a más de 1000 alumnos, 600 familias y más de 150 personas trabajando en las tres sedes.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="8.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">50° aniversario</span>
+                                            <p class="mb-25px">En el año del Cincuentenario, la Institución decide comenzar la ampliación y refuncionalización del edificio original de Jorge Bell.
+Procurando recuperar las raíces de la historia institucional y los valores vividos en esta porción del suelo de City Bell, asume el valor insustituible de seguir abriendo las puertas a las familias en el centro de la ciudad.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="9.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Unificación edilicia</span>
+                                            <p class="mb-25px">En este año se proyecta la integración de los niveles en un espacio adecuado. Con este fin se encara la ampliación y refuncionalización del edificio original sobre la diagonal Jorge Bell. 
+La identidad del edificio como establecimiento escolar, es el objetivo más claro que anima el proyecto. La unificación de los niveles educativos y la expansión de espacios que puedan abrirse a la comunidad, son propósitos esenciales que se pueden ver en el diseño final.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                    <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div></div><div class="swiper-slide bg-white border-radius-4px swiper-slide-visible swiper-slide-next" role="group" aria-label="3 / 4" data-swiper-slide-index="2" style="width: 595px; transition-duration: 0ms; transform: translate3d(-150px, 0px, -225px) rotateX(0deg) rotateY(0deg) scale(1); z-index: 0;">
+                                    <div class="position-relative ps-13 pe-13 md-ps-10 md-pe-10 sm-ps-7 sm-pe-7 pt-20 pb-10 lg-pt-22 md-pt-30 sm-pt-20">
+                                        <img alt="" src="10.jpg" class="absolute-middle-center top-0px rounded-circle w-150px xs-w-100px border border-color-white box-shadow-extra-large border-8">
+                                        <div class="testimonials-content">
+                                            <span class="text-dark-gray fs-18 lh-30 fw-600 mb-5px d-block">Nueva sede</span>
+                                            <p class="mb-25px">Ante la necesidad de un cambio de modalidad, en el 2022 se incorpora la jornada extendida al nivel inicial. Ante la creciente demanda, en el año 2023 se concreta la compra de una fracción de terreno de 1,5 hectáreas con el fin de construir un nuevo edificio que albergue al nivel inicial y primario.
+En ese mismo año se realiza un concurso abierto de anteproyecto para el nuevo edificio y en el 2023 se comienza la construcción del edificio donde funcionará el nivel primario. Asimismo, luego de varias refacciones necesarias comienza a utilizarse como campo de deportes y espacio destinado a recreaciones y campamentos.</p>
+                                        </div>
+                                        
+                                        <div class="testimonials-position fs-15 lh-20">#ESPIRITUESTRADA</div> 
+                                    </div>
+                                <div class="swiper-slide-shadow-left swiper-slide-shadow-coverflow" style="opacity: 0; transition-duration: 0ms;"></div><div class="swiper-slide-shadow-right swiper-slide-shadow-coverflow" style="opacity: 1.5; transition-duration: 0ms;"></div></div></div>
+                            <!-- start slider pagination -->
+                            <!-- <div class="swiper-pagination slider-four-slide-pagination-1 swiper-pagination-style-4 swiper-pagination-clickable swiper-pagination-bullets"></div>-->
+                            <!-- end slider pagination -->
+                            <!-- start slider navigation --> 
+                            <!-- <div class="swiper-button-previous-nav swiper-button-prev icon-extra-medium slider-navigation-style-04 rounded-circle"><i class="icon feather icon-feather-arrow-left"></i></div>
+                                 <div class="swiper-button-next-nav swiper-button-next icon-extra-medium slider-navigation-style-04 rounded-circle"><i class="icon feather icon-feather-arrow-right"></i></div>-->
+                            <!-- end slider navigation -->
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+                </div>
+                <!-- start reviews -->
+                <div class="row">
+                    <div class="col-12 text-center appear anime-complete" data-anime="{ &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="">
+                
+                    </div>
+                </div>
+                <!-- end reviews -->
+            </div>
+        </section>
+        </section>
+          <section class="ps-5 pe-5 lg-ps-2 lg-pe-2 bg-very-light-gray">
+            <div class="container-fluid"> 
+                <div class="row">
+                    <div class="col">
+                        <ul class="image-gallery-style-02 gallery-wrapper grid grid-4col xxl-grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-large" style="position: relative; height: 590px;">
+                            <li class="grid-sizer"></li>
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 0%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="h1.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h1.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 25%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="h2.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h2.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 50%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="h9.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h9.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 0px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h3.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h3.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 0%; top: 295px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="h10.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h10.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 25%; top: 295px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="h4.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h4.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 50%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h5.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h5.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h6.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h6.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                               <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h8.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h8.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                               <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h12.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h12.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                               <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h7.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h7.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                               <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 295px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="h11.png" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="h11.png" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section -->
+      <section class="bg-very-light-gray background-position-center-top position-relative overflow-hidden sm-background-image-none" style="background-image: url('images/vertical-line-bg.svg')">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-xl-5 col-lg-6 col-md-10 md-mb-50px">
+                <div class="row row-cols-1 row-cols-lg-1"> 
+                    <!-- start testimonial item - Misión -->
+                    <div class="col mb-35px ms-35px lg-ms-0 appear anime-complete" data-anime='{"translateX": [25, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 500, "easing": "easeOutQuad"}'>
+                        <div class="d-flex flex-column flex-sm-row align-items-center testimonials testimonials-style-07 border-radius-6px ps-45px pe-45px pt-35px pb-35px lg-p-30px bg-white box-shadow-quadruple-large text-center text-sm-start last-paragraph-no-margin skrollable skrollable-between" data-bottom-top="transform: translate3d(50px, 0px, 0px);" data-top-bottom="transform: translate3d(-50px, 0px, 0px);" style="transform: translate3d(-10.8234px, 0px, 0px);">
+                            <div class="testimonials-content">
+                                <p class="fs-22 alt-font text-dark-gray fw-700 mb-2">Misión</p>
+                                <p class="d-inline-block">
+                                    Brindar una educación integral que fomente el desarrollo de seres pensantes y espiritualmente fuertes, capaces de construir un pensamiento lógico, científico, emocional y creativo. Desde nuestra Fundación José Manuel Estrada, trabajamos para formar personas autónomas, críticas y comprometidas, inspiradas por valores cristianos y orientadas hacia el crecimiento personal y el bien común.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end testimonial item -->
+
+                    <!-- start testimonial item - Visión -->
+                    <div class="col appear anime-complete" data-anime='{"translateX": [-25, 0], "opacity": [0,1], "duration": 800, "delay": 300, "staggervalue": 500, "easing": "easeOutQuad"}'>
+                        <div class="d-flex flex-column flex-sm-row align-items-center testimonials testimonials-style-07 border-radius-6px ps-45px pe-45px pt-35px pb-35px lg-p-30px bg-white box-shadow-quadruple-large text-center text-sm-start last-paragraph-no-margin skrollable skrollable-between" data-bottom-top="transform: translate3d(-50px, 0px, 0px);" data-top-bottom="transform: translate3d(50px, 0px, 0px);" style="transform: translate3d(-4.11687px, 0px, 0px);">
+                            <div class="testimonials-content">
+                                <p class="fs-22 alt-font text-dark-gray fw-700 mb-2">Visión</p>
+                                <p class="d-inline-block">
+                                    Ser una institución educativa referente en la formación de personas íntegras, innovadoras y comprometidas con la transformación de la sociedad. Aspiramos a consolidarnos como un modelo de excelencia académica y espiritual en City Bell y más allá, contribuyendo a una comunidad más justa, solidaria y basada en principios éticos y cristianos.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end testimonial item -->
+                </div>
+            </div>
+
+            <!-- Texto lateral derecho -->
+         <div class="col-xl-5 col-lg-6 offset-xl-1 col-md-10 text-center text-lg-start appear anime-child anime-complete" 
+     data-anime='{"el": "childs", "opacity": [0,1], "duration": 600, "delay": 200, "staggervalue": 200, "easing": "easeOutQuad"}'>
+
+  <h3 class="alt-font fw-600 d-inline-block text-dark-gray">
+    Enseñar y aprender desde la <span class="fw-800 text-jade">actitud interior.</span>
+  </h3>
+
+  <ul class="ps-0 fs-18 text-dark-gray list-unstyled">
+    <li class="lh-normal mb-3">"Frente a una pedagogía de meros actos exteriores, proponemos una pedagogía de actitudes."</li>
+    <li class="lh-normal mb-3">"Frente a una pedagogía de puro cumplimiento del deber, una de generosidad."</li>
+    <li class="lh-normal mb-3">"Frente a una pedagogía arrogante y autosuficiente, una de humildad."</li>
+    <li class="lh-normal mb-3">"Frente a una pedagogía de presiones, una de libertad."</li>
+    <li class="lh-normal mb-3">"Frente a una sombría pedagogía de tristeza, una de alegría."</li>
+  </ul>
+
+  <p class="mt-20 fw-500 text-dark-gray">— Padre Kentenich</p>
+</div>
+
+</section>
+
+        <!-- start section -->
+
+<section>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12 p-0">
+      <h3 class="text-dark-gray fw-700 text-center" style="font-size: 2.0vw; padding: 10px 0; margin: 0;">
+        "Herederos de un pasado, constructores de presente, forjadores de futuro."
+      </h3>
+    </div>
+  </div>
+</div>
+
+
+</h3>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-11 position-relative h-750px md-h-600px sm-h-350px border-radius-6px border border-color-transparent position-relative" data-parallax-background-ratio="0.5" style="background-image: url('ideari.jpg'); background-position: 50% 191.375px;">  
+                <a href="#" onclick="openPDF()">
+                    <div class="absolute-middle-center z-index-9">
+                        <img src="ideario.png" class="" alt="" data-no-retina="">
+                        <div class="absolute-middle-center w-100 z-index-minus-1">
+                            <img src="" alt="" data-no-retina="">
+                        </div> 
+                    </div>
+                </a>
+            </div> 
+        </div> 
+    </div> 
+</section>
+
+<!-- Modal para el PDF -->
+<div id="pdfModal" style="display:none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); text-align: center;">
+    <iframe id="pdfFrame" src="" style="width: 80%; height: 80%; margin-top: 5%;"></iframe>
+    <button onclick="closePDF()" style="position: absolute; top: 20px; right: 20px; padding: 10px 20px; background-color: red; color: white; border: none; cursor: pointer;">Cerrar</button>
+</div>
+
+<script>
+    function openPDF() {
+        document.getElementById('pdfFrame').src = "ideario.pdf";
+        document.getElementById('pdfModal').style.display = 'block';
+    }
+
+    function closePDF() {
+        document.getElementById('pdfModal').style.display = 'none';
+    }
+</script>
+
+
+
+        <!-- end section -->
+        
+        <!-- start section -->
+        <section class="position-relative">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-xl-8 last-paragraph-no-margin">
+                        <h1 class="text-majorelle-blue alt-font fw-600">Nueva Sede<span class="text-majorelle-blue"> 2025</span></h1>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="position-absolute left-0px top-minus-50px lg-top-minus-25px xs-top-minus-10px background-position-left-top w-100 h-100px lg-h-50px background-size-100 background-no-repeat"  style="background-image: url('images/demo-charity-about-bg-01.jpg')"></div>
+            <div class="container">
+                <div class="row align-items-center position-relative mb-9 xs-mb-40px">
+                    <div class="col-lg-5 col-md-6 last-paragraph-no-margin sm-mb-60px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 200, "easing": "easeOutQuad" }'>
+                    
+                    </div> 
+                </div>
+                <div class="row justify-content-center mb-7 sm-mb-30px">
+                    <div class="col-12">
+                        <div class="border-radius-6px h-450px md-h-350px sm-h-auto d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15 sm-pt-0" style="background-image: url('pf2.jpg')" data-bottom-top="transform:scale(1.2, 1.2) translateY(30px);" data-top-bottom="transform:scale(1, 1) translateY(-30px);">
+                            <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
+                            <div class="row justify-content-center sm-pt-40px sm-pb-40px">
+                                <div class="col-md-7 col-sm-9 position-relative z-index-1 text-center text-md-start sm-pb-25px">
+                                    <h5 class="d-inline-block text-white">Diseñado especialmente, este nuevo espacio moderno ofrece aulas amplias, espacios verdes y áreas deportivas que promueven el aprendizaje integral y el bienestar de nuestros estudiantes.</5> 
+                                </div>
+                                <div class="col-md-2 position-relative z-index-1 text-center">
+                                    <a href="r1.mp4" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
+                                        <span>
+                                            <span class="video-icon">
+                                                <i class="fa-solid fa-play fs-20 text-white"></i>
+                                            </span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                            
+                        </div> 
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+        <!-- end section -->
+       
+        <!-- start section --> 
+       
+        </section>
+                <section class="ps-5 pe-5 lg-ps-2 lg-pe-2 bg-very-light-gray">
+            <div class="container-fluid"> 
+                <div class="row">
+                    <div class="col">
+                        <ul class="image-gallery-style-02 gallery-wrapper grid grid-4col xxl-grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-large" style="position: relative; height: 590px;">
+                            <li class="grid-sizer"></li>
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 0%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="inst1.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="inst1.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 25%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="inst2.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="inst2.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 50%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="inst3.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="inst3.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 75%; top: 0px;">
+                                <div class="atropos-scale">
+                                    <div class="atropos-rotate">
+                                        <div class="atropos-inner" data-atropos-offset="3"> 
+                                            <div class="gallery-box">
+                                                <a href="inst4.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="inst4.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px);"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1);"></span></div>
+                                </div>
+                            <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Función para detectar si es mobile
+    function isMobile() {
+        return window.innerWidth <= 768;
+    }
+
+    if (isMobile()) {
+        // Selecciona todos los elementos con efecto atropos
+        const atroposElements = document.querySelectorAll('[data-atropos]');
+
+        atroposElements.forEach(el => {
+            el.removeAttribute('data-atropos');
+            el.classList.remove('atropos', 'atropos-rotate-touch');
+        });
+    }
+});
+</script>
+    
+                            </li>
+                            
+                
+                            <!-- end gallery item -->
+                            <!-- end gallery item -->
+                        </ul>
+   <section class="ps-5 pe-5 lg-ps-2 lg-pe-2 bg-very-light-gray position-relative" style="z-index: 1;">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <ul class="image-gallery-style-02 gallery-wrapper grid grid-4col xxl-grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-large" style="position: relative; height: 590px;">
+          <li class="grid-sizer"></li>
+          <!-- Acá van los grid-item  -->
+        </ul>
+      </div>
+    </div>
+
+    <!-- BLOQUE FOTÓGRAFA -->
+    <div class="row justify-content-center align-items-center pt-4 pb-5">
+      <div class="col-12 text-center last-paragraph-no-margin appear anime-child anime-complete"
+           data-anime='{"el":"childs", "translateY":[0, 0], "opacity":[0,1], "duration":1200, "delay":0, "staggervalue":150, "easing":"easeOutQuad"}'>
+        <div class="d-inline-block align-middle bg-dark-gray fw-600 text-white text-uppercase border-radius-4px ps-15px pe-15px fs-12 me-10px md-m-5px mb-2">
+          Fotógrafa
+        </div>
+        <div class="d-inline-block align-middle text-dark-gray fs-20 fw-500 ls-minus-05px mb-2">
+          <span class="text-decoration-line-bottom fw-600">@virginiagutierrezguiaph</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+        </section>
+        <!-- end section -->  
+ <!-- start footer -->
+        <footer class="cover-background background-position-center-top pb-0" style="background-image: url('foter.jpg')">
+            <div class="border-bottom border-color-transparent-white-light pb-3 lg-pb-5 sm-pb-45px">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col text-center">
+                            <h4 class="mb-0 text-dark-gray alt-font fw-400">#ESPIRITU<a href="contacto" class="text-decoration-line-bottom-medium text-base-color">ESTRADA</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center pt-5 pb-5 md-pt-45px md-pb-50px text-center text-sm-start">
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-12 col-sm-6 d-flex flex-column flex-md-row flex-lg-column align-items-md-center align-items-lg-start last-paragraph-no-margin md-mb-35px">
+                        <a href="demo-charity.html" class="footer-logo d-inline-block xs-mb-15px"><img src="https://saucovision.com/projects/estrada/html/lijh.png" data-at2x="https://saucovision.com/projects/estrada/html/lijh.png" alt=""></a>
+                        <div class="mt-auto ms-md-auto ms-lg-0 ms-0">
+                            <span class="fs-14 text-uppercase text-dark-gray fw-500 ls-1px">Desde</span>
+                            <h5 class="alt-font fw-400 text-base-color mb-0">1956</h5>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-4 col-sm-6 sm-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">Contacto administrativo</span>
+                        <p class="w-70 text-light-conch-green mb-10px xl-w-80 lg-w-100">Diag. 3 e/ 473 y 473 bis, City Bell, Buenos Aires, Argentina</p>
+                        <div class="text-dark-gray"><i class="feather icon-feather-phone-call fs-16 me-10px text-base-color"></i><a href="tel:2215905955">221 590 5955</a></div>
+                        <div><i class="feather icon-feather-mail fs-16 me-10px text-base-color"></i><a href="mailto:info@ijmecitybell.edu.ar" class="text-dark-gray text-decoration-line-bottom">info@ijmecitybell.edu.ar</a></div>
+                    </div>
+                    <!-- end footer column --> 
+                    <!-- start footer column -->
+                    <div class="col-xxl-4 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin xs-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">#EspirituEstrada</span>
+                        <p class="w-70 text-light-conch-green xl-w-100">“Antes de ser educado, cada uno anhela ser comprendido”          (P. José Kentenich)</p> 
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-xxl-2 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin">
+                        <span class="d-block text-dark-gray mb-15px fs-14 text-uppercase fw-500 ls-1px">Seguinos</span>
+                        <div class="elements-social social-icon-style-09">
+                            <ul class="medium-icon dark">
+                                <li><a class="facebook" href="https://www.facebook.com/ijmecitybell/?locale=es_LA" target="_blank"><i class="fa-brands fa-facebook-f"></i><span></span></a></li>
+                                <li><a class="instagram" href="https://www.instagram.com/ijmecitybell/" target="_blank"><i class="fa-brands fa-instagram"></i><span></span></a></li>
+                                  
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                </div>
+            </div>
+            <div class="pt-15px pb-15px bg-racing-green">
+                <div class="container">
+                    <div class="row align-items-center"> 
+                        <div class="col-lg-7 text-center text-lg-start md-mb-5px"> 
+                            <ul class="footer-navbar"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div> 
+                        <div class="col-lg-5 text-center text-lg-end">
+                            <span class="fs-15 text-light-conch-green">&copy; 2024 IJME Powered by <a href="https://www.saucovision.com/" target="_blank" class="text-decoration-line-bottom text-white">SaucoVision</a></span>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer -->
+         <!-- start scroll progress -->
+        <div class="scroll-progress d-none d-xxl-block">
+          <a href="#" class="scroll-top" aria-label="scroll">
+            <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+          </a>
+        </div>
+        <!-- end scroll progress -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/vendors.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,252 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Contacto - Instituto José Manuel Estrada</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="author" content="SaucoVision">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <meta name="description" content="Colegio José Manuel Estrada City Bell.">
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="logochi.png">
+        <link rel="apple-touch-icon" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="logochi.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="css/vendors.min.css"/>
+        <link rel="stylesheet" href="css/icon.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/responsive.css"/>
+        <link rel="stylesheet" href="demos/charity/charity.css" />
+    </head>
+    <body data-mobile-nav-style="classic">
+        <!-- start header -->
+        <header class="header-with-topbar"> 
+            <div class="header-top-bar top-bar-light bg-gradient-corduroy-green-dark-goldenrod disable-fixed">
+                <div class="container-fluid">
+                    <div class="row h-42px align-items-center justify-content-center">
+                        <div class="col-auto text-center">
+                            <span class="bg-black-transparent-light ps-15px pe-15px d-inline-block align-middle fs-10 text-uppercase text-white border-radius-4px fw-700 me-15px lh-26">Instituto José Manuel Estrada</span>
+                  
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light border-bottom border-color-transparent-dark-very-light  disable-fixed background-position-left-top" style="background-image: url('images/demo-charity-home-bg-01.jpg')">
+                <div class="container-fluid justify-content-lg-start">
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="default-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="alt-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="mobile-logo"> 
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order left-nav">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav"> 
+                            <ul class="navbar-nav"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                  <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    <div class="col-auto ms-auto d-none d-xl-flex">
+                        <div class="header-icon">
+                        
+                            <div class="header-button"><a href="contacto" class="btn btn-very-small btn-dark-gray btn-box-shadow btn-round-edge">Inscribite</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </nav>
+            <!-- start push popup --> 
+        </header>
+        <!-- end header -->
+         <!-- start page title -->
+        <section class="page-title-big-typography cover-background" style="background-image: url(pc.jpg)">
+            <div class="container">
+                <div class="row align-items-center small-screen">
+                    <div class="col-10 col-sm-12 position-relative page-title-extra-large">
+                        <h1 class="alt-font text-white mb-10px ls-minus-1px fw-700" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "filter": ["blur(20px)", "blur(0px)"], "string": ["Contáctanos"], "duration": 500, "delay": 0, "speed": 50, "easing": "easeOutQuad" }'></h1>
+                       <h2 class="mb-0 xs-w-85" data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 200, "easing": "easeOutQuad" }'>#ESPIRITUESTRADA.</h2>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end page title -->
+
+        <!-- start page title -->
+       
+        <section id="down-section">
+                <div class="container"> 
+                    <div class="row align-items-end justify-content-center mb-6 text-center text-lg-start sm-mb-8">                    
+                        <div class="col-xl-5 col-lg-7 col-md-10 md-mb-25px appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                            <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block" style="">#ESPIRITUESTRADA</span>
+                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-0" style="">Contactanos.</h3>
+                        </div>
+                        <div class="col-xl-6 offset-xl-1 col-lg-5 col-md-10 last-paragraph-no-margin">
+                            <p class="w-90 lg-w-100 appear words lines splitting anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;lines&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="--word-total: 31; --line-total: 3;"><span class="d-inline" style="will-change: inherit;">Estamos aquí para responder todas tus consultas y brindarte la información que necesitas. No dudes en comunicarte con nosotros a través de nuestros canales de contacto o visitarnos en nuestras instalaciones.</span> </p>
+                        </div>
+                    </div>
+                    <div class="row row-cols-1 row-cols-xl-4 row-cols-lg-4 row-cols-md-2 row-cols-sm-2 mb-6 sm-mb-8 appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                        <div class="col md-mb-30px text-center text-sm-start" style="">
+                            <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-phone d-inline-block icon-small me-10px"></i>Inicial</span>
+                            <div class="last-paragraph-no-margin">
+                                <p>221-481-4390<br> inicial@ijmecitybell.edu.ar</p>
+                            </div>
+                        </div>
+                        <div class="col md-mb-30px text-center text-sm-start" style="">
+                            <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-phone d-inline-block icon-small me-10px"></i>Primaria</span>
+                            <a href="mailto:info@yourdomain.com">221-613-5555</a><br>
+                            <a href="mailto:sales@yourdomain.com">info@ijmecitybell.edu.ar</a>
+                        </div>
+                        <div class="col xs-mb-30px text-center text-sm-start" style="">
+                            <span class="alt-font fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100"><i class="feather icon-feather-phone d-inline-block icon-small me-10px"></i>Secundaria</span>
+                            <a href="tel:1800222000">221-590-5995</a><br>
+                            <a href="tel:1800222002">info@ijmecitybell.edu.ar</a>
+                        </div>
+                     <div class="col xs-mb-30px text-center text-sm-start" style="">
+    <span class=" fs-18 fw-700 d-block w-90 text-dark-gray border-bottom border-2 border-color-dark-gray pb-15px mb-15px xs-w-100">
+        <i class="feather icon-feather-phone d-inline-block icon-small me-10px"></i>Administración<br>y Representación Legal
+    </span>
+    <a href="mailto:administracion@ijmecitybell.edu.ar">administracion@ijmecitybell.edu.ar</a><br>
+    <a href="mailto:representacionlegal@ijmecitybell.edu.ar">representacionlegal@ijmecitybell.edu.ar</a>
+</div>
+
+                    </div>
+                     
+                  
+                    <h3 class="alt-font text-jade fw-700">Trabaja con nosotros.</h3>
+                  <div style="width:100%;height:500px;" data-fillout-id="7gpSMwAYRGus" data-fillout-embed-type="standard" data-fillout-inherit-parameters data-fillout-dynamic-resize></div><script src="https://server.fillout.com/embed/v1/"></script>
+                    <div class="row justify-content-center g-0 appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateX&quot;: [30, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;:0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                        <div class="col-auto text-center last-paragraph-no-margin icon-with-text-style-08 pt-20px pb-20px ps-8 pe-8 md-ps-30px md-pe-30px bg-gradient-flamingo-amethyst-green border-radius-100px xs-border-radius-30px" style="">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon me-10px">
+                                    <i class="bi bi-chat-text fs-24 icon-very-medium text-white"></i>
+                                </div>
+                                <div class="feature-box-content last-paragraph-no-margin text-white text-uppercase fs-15 fw-600 ls-05px xs-lh-24">
+                                    Let's make something great work together. <a href="demo-corporate-contact.html" class="text-white text-decoration-line-bottom-medium">Got a project in mind?</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        <!-- end page title -->
+        <!-- start section -->  
+        
+        <!-- end section --> 
+        <!-- start section --> 
+        <section class="p-0">
+            <div class="container-fluid p-0">
+                <div class="row g-0">
+                    <div class="col-12"> 
+                        <div id="map" class="map h-700 md-h-500 sm-h-400" data-map-options='{ "lat": -37.805688, "lng": 144.962312, "style": "Retro", "marker": { "type": "HTML", "class": "marker03", "color": "#384744" }, "popup": { "defaultOpen": false, "html": "<div class=infowindow><strong class=\"mb-3 d-inline-block alt-font\">Crafto Charity</strong><p>16122 Collins street, Melbourne, Australia</p></div><div class=\"google-maps-link\"> <a aria-label=\"View larger map\" target=\"_blank\" jstcache=\"31\" href=\"https://maps.google.com/maps?ll=-37.805688,144.962312&amp;z=17&amp;t=m&amp;hl=en-US&amp;gl=IN&amp;mapclient=embed&amp;cid=13153204942596594449\" jsaction=\"mouseup:placeCard.largerMap\">VIEW LARGER MAP</a></div>" } }'></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section --> 
+        <!-- start footer -->
+        <footer class="cover-background background-position-center-top pb-0" style="background-image: url('foter.jpg')">
+            <div class="border-bottom border-color-transparent-white-light pb-3 lg-pb-5 sm-pb-45px">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col text-center">
+                            <h4 class="mb-0 text-dark-gray alt-font fw-400">#ESPIRITU<a href="contacto" class="text-decoration-line-bottom-medium text-base-color">ESTRADA</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center pt-5 pb-5 md-pt-45px md-pb-50px text-center text-sm-start">
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-12 col-sm-6 d-flex flex-column flex-md-row flex-lg-column align-items-md-center align-items-lg-start last-paragraph-no-margin md-mb-35px">
+                        <a href="demo-charity.html" class="footer-logo d-inline-block xs-mb-15px"><img src="https://saucovision.com/projects/estrada/html/lijh.png" data-at2x="https://saucovision.com/projects/estrada/html/lijh.png" alt=""></a>
+                        <div class="mt-auto ms-md-auto ms-lg-0 ms-0">
+                            <span class="fs-14 text-uppercase text-dark-gray fw-500 ls-1px">Desde</span>
+                            <h5 class="alt-font fw-400 text-base-color mb-0">1956</h5>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-4 col-sm-6 sm-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">Contacto administrativo</span>
+                        <p class="w-70 text-light-conch-green mb-10px xl-w-80 lg-w-100">Diag. 3 e/ 473 y 473 bis, City Bell, Buenos Aires, Argentina</p>
+                        <div class="text-dark-gray"><i class="feather icon-feather-phone-call fs-16 me-10px text-base-color"></i><a href="tel:2215905955">221 590 5955</a></div>
+                        <div><i class="feather icon-feather-mail fs-16 me-10px text-base-color"></i><a href="mailto:info@ijmecitybell.edu.ar" class="text-dark-gray text-decoration-line-bottom">info@ijmecitybell.edu.ar</a></div>
+                    </div>
+                    <!-- end footer column --> 
+                    <!-- start footer column -->
+                    <div class="col-xxl-4 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin xs-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">#EspirituEstrada</span>
+                        <p class="w-70 text-light-conch-green xl-w-100">“Antes de ser educado, cada uno anhela ser comprendido”          (P. José Kentenich)</p> 
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-xxl-2 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin">
+                        <span class="d-block text-dark-gray mb-15px fs-14 text-uppercase fw-500 ls-1px">Seguinos</span>
+                        <div class="elements-social social-icon-style-09">
+                            <ul class="medium-icon dark">
+                                <li><a class="facebook" href="https://www.facebook.com/ijmecitybell/?locale=es_LA" target="_blank"><i class="fa-brands fa-facebook-f"></i><span></span></a></li>
+                                <li><a class="instagram" href="https://www.instagram.com/ijmecitybell/" target="_blank"><i class="fa-brands fa-instagram"></i><span></span></a></li>
+                                  
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                </div>
+            </div>
+            <div class="pt-15px pb-15px bg-racing-green">
+                <div class="container">
+                    <div class="row align-items-center"> 
+                        <div class="col-lg-7 text-center text-lg-start md-mb-5px"> 
+                            <ul class="footer-navbar"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div> 
+                        <div class="col-lg-5 text-center text-lg-end">
+                            <span class="fs-15 text-light-conch-green">&copy; 2024 IJME Powered by <a href="https://www.saucovision.com/" target="_blank" class="text-decoration-line-bottom text-white">SaucoVision</a></span>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer -->
+
+        <div class="scroll-progress d-none d-xxl-block">
+          <a href="#" class="scroll-top" aria-label="scroll">
+            <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+          </a>
+        </div>
+        <!-- end scroll progress -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/vendors.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>

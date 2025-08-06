@@ -1,0 +1,592 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Propuesta Educativa - Instituto José Manuel Estrada</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="author" content="SaucoVision">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <meta name="description" content="Colegio Jose Manuel Estrada City Bell.">
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="logochi.png">
+        <link rel="apple-touch-icon" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="logochi.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="css/vendors.min.css"/>
+        <link rel="stylesheet" href="css/icon.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/responsive.css"/>
+        <link rel="stylesheet" href="demos/charity/charity.css" />
+    </head>
+    <body data-mobile-nav-style="classic">
+        <!-- start header -->
+        <header class="header-with-topbar"> 
+            <div class="header-top-bar top-bar-light bg-gradient-corduroy-green-dark-goldenrod disable-fixed">
+                <div class="container-fluid">
+                    <div class="row h-42px align-items-center justify-content-center">
+                        <div class="col-auto text-center">
+                            <span class="bg-black-transparent-light ps-15px pe-15px d-inline-block align-middle fs-10 text-uppercase text-white border-radius-4px fw-700 me-15px lh-26">Instituto José Manuel Estrada</span>
+                            <div class=" d-inline-block align-middle fs-12 text-white text-uppercase fw-500">Inscripciones 2025. <a href="contacto" class="text-decoration-line-bottom text-white">Contáctanos</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light border-bottom border-color-transparent-dark-very-light  disable-fixed background-position-left-top" style="background-image: url('images/demo-charity-home-bg-01.jpg')">
+                <div class="container-fluid justify-content-lg-start">
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="default-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="alt-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="mobile-logo"> 
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order left-nav">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav"> 
+                            <ul class="navbar-nav"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                  <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto ms-auto d-none d-xl-flex">
+                        <div class="header-icon">
+                        
+                            <div class="header-button"><a href="contacto" class="btn btn-very-small btn-dark-gray btn-box-shadow btn-round-edge">Inscribite</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </nav>
+            <!-- start push popup --> 
+        </header>
+        <!-- end header -->
+        <!-- start page title -->
+        <section class="page-title-big-typography cover-background" style="background-image: url(pe1.jpg)">
+            <div class="container">
+                <div class="row align-items-center small-screen">
+                    <div class="col-10 col-sm-12 position-relative page-title-extra-large">
+                        <h1 class="alt-font text-white fw-700 mb-10px ls-minus-1px" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "filter": ["blur(20px)", "blur(0px)"], "string": ["#EspirituEstrada"], "duration": 500, "delay": 0, "speed": 20, "easing": "easeOutQuad" }'></h1>
+                                        </div>
+                </div>
+            </div>
+        </section>
+        
+        
+        <!-- end page title -->
+                <section class="big-section border-top border-color-extra-medium-gray">
+            <div class="container">
+                <div class="row justify-content-center mb-3">
+                    <div class="col-12 col-lg-10 text-center">
+                        <h2 class="fs-70 text-dark-gray fw-700 ls-minus-2px">Propuesta <span class="text-jade">educativa</span></h2>
+                    </div>
+                </div>
+            </div>
+        
+        <div class="cover-background" style="background-white">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-xl-12 position-relative blockquote-style-02 text-center">
+                        <!-- start blockquote -->
+                        
+                        <h3 class="text-black mb-20px fw-500 w-90 mx-auto">“Lo que tenemos que lograr es que la persona tenga un conocimiento integral y profundo, que no sólo toque la mente sino también el corazón.
+Un verdadero conocimiento que lleva al amor y transforma la vida.”</h3>
+         <p>                                  - Padre José Kentenich -
+</p>
+                        <!-- end blockquote -->
+                    </div>
+                </div> 
+            </div>
+        </div>
+    
+                                      </div>
+                </div>
+              </section>   
+        <section class="overflow-hidden bg-very-light-gray position-relative">
+  <div class="container">
+    <div class="row align-items-center mb-5 sm-mb-30px text-center text-lg-start appear anime-child anime-complete" data-anime='{"el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 1000, "delay":0, "staggervalue": 500, "easing": "easeOutQuad"}'>
+      <div class="col-lg-5 md-mb-30px"> 
+        <h3 class="text-dark-gray fw-700 ls-minus-1px mb-0">Propuestas y Actividades.</h3>
+      </div> 
+      <div class="col-lg-4 offset-xl-1 last-paragraph-no-margin md-mb-30px"> 
+        <p>En el IJME, impulsamos el aprendizaje práctico y colaborativo a través de proyectos innovadores que desarrollan habilidades, creatividad y responsabilidad social en nuestros estudiantes.</p>
+      </div> 
+      <div class="col-xl-2 col-lg-3 d-flex justify-content-center">
+        <!-- start slider navigation -->
+        <div class="slider-one-slide-prev-1 icon-small text-dark-gray swiper-button-prev slider-navigation-style-04 bg-white box-shadow-large" tabindex="0" role="button" aria-label="Previous slide"><i class="fa-solid fa-arrow-left"></i></div>
+        <div class="slider-one-slide-next-1 icon-small text-dark-gray swiper-button-next slider-navigation-style-04 bg-white box-shadow-large" tabindex="0" role="button" aria-label="Next slide"><i class="fa-solid fa-arrow-right"></i></div> 
+        <!-- end slider navigation -->
+      </div>
+    </div>
+    <div class="row align-items-center appear anime-complete" data-anime='{"opacity": [0,1], "duration": 1000, "delay":0, "staggervalue": 300, "easing": "easeOutQuad"}'>
+      <div class="col-12">
+        <div class="outside-box-right-20 sm-outside-box-right-0">
+          <div class="swiper slider-one-slide" data-slider-options='{"slidesPerView":1,"spaceBetween":30,"loop":true,"navigation":{"nextEl":".slider-one-slide-next-1","prevEl":".slider-one-slide-prev-1"},"autoplay":{"delay":8000,"disableOnInteraction":false},"keyboard":{"enabled":true,"onlyInViewport":true},"breakpoints":{"1200":{"slidesPerView":4},"992":{"slidesPerView":3},"768":{"slidesPerView":2},"320":{"slidesPerView":1}},"effect":"slide"}'>
+            <div class="swiper-wrapper" style="transform: translate3d(0, 0, 0); transition-duration: 300ms;">
+              <!-- Actos escolares -->
+              <div class="swiper-slide" role="group" aria-label="1 / 8" data-swiper-slide-index="0" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="actope.jpg" alt="Efémerides"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Efémerides</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Creatividad y memoria</a>
+                      <p>Organizamos actos escolares para conmemorar fechas patrias y otras fechas significativas. Estos actos promueven la identidad y el respeto por la comunidad educativa, involucrando a estudiantes, docentes y familias.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+               <!-- Pernoctada -->
+              <div class="swiper-slide" role="group" aria-label="1 / 8" data-swiper-slide-index="0" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="pernoctada.jpg" alt="Pernoctada"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Pernoctada</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Una noche en el colegio</a>
+                      <p>La Pernoctada es una propuesta que invita a los y las estudiantes a pasar una noche en el colegio, compartiendo juegos, actividades recreativas y momentos de reflexión. Una experiencia distinta que fortalece los vínculos, el trabajo en equipo y el sentido de comunidad.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+              <!-- Olimpíadas de Matemática -->
+              <div class="swiper-slide" role="group" aria-label="2 / 8" data-swiper-slide-index="1" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="mat.jpg" alt="Olimpíadas de Matemática"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Olimpíadas de Matemática</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center progress-bar-style-01">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Desafíos que inspiran</a>
+                      <p>Desde primaria hasta secundaria, las Olimpíadas de Matemática impulsan el pensamiento lógico y creativo. Los estudiantes compiten en pruebas iniciales y, en etapas superiores, los clasificados participan en instancias provinciales.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+              <!-- Campañas de Donación de Sangre -->
+              <div class="swiper-slide" role="group" aria-label="3 / 8" data-swiper-slide-index="2" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="sangre.jpg" alt="Campañas de Donación de Sangre"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Campañas de Donación de Sangre</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center progress-bar-style-01">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Un acto de solidaridad</a>
+                      <p>El colegio organiza campañas de donación de sangre para promover la solidaridad. Estudiantes organizan y participan junto con el departamento de Promoción Social, ayudando a salvar vidas y apoyando a quienes más lo necesitan.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+              <!-- Viajes educativos -->
+              <div class="swiper-slide" role="group" aria-label="4 / 8" data-swiper-slide-index="3" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="viajes.jpg" alt="Viajes educativos"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Viajes educativos</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center progress-bar-style-01">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Aventura y aprendizaje</a>
+                      <p>Cada año, el colegio organiza campamentos y viajes educativos en todos los niveles, donde los estudiantes participan en actividades al aire libre, acompañados por compañeros y docentes, mientras aprenden sobre los lugares que visitan, viviendo una experiencia única.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+              <!-- Modelo ONU -->
+              <div class="swiper-slide" role="group" aria-label="5 / 8" data-swiper-slide-index="4" style="width: 356.75px; margin-right: 30px;">
+                <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
+                  <div class="position-relative">
+                    <a href="#"><img src="onuu.jpg" alt="Modelo ONU"></a>
+                    <a href="#" class="btn btn-small btn-rounded btn-white text-dark-gray btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase fw-700">Modelo ONU</a>
+                  </div>
+                  <div class="bg-white">
+                    <div class="ps-65px pe-65px pt-30px pb-30px text-center progress-bar-style-01">
+                      <a href="#" class="d-inline-block fs-18 fw-600 text-dark-gray mb-5px">Ciudadanía global</a>
+                      <p>Es un proyecto educativo que fomenta el pensamiento crítico, la oratoria y el trabajo en equipo. Los estudiantes representan a diferentes países, debaten temas globales y buscan soluciones, promoviendo valores como la empatía, el liderazgo y el respeto por la diversidad.</p> 
+                    </div> 
+                  </div>
+                </div>
+              </div>
+            </div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+          </div>
+        </div>
+      </div>
+    </div> 
+  </div> 
+</section>
+
+              <section>
+              
+  <div class="row justify-content-center mb-3">
+  
+    <div class="col-12 col-lg-6 text-center">
+      <h2 class="d-inline-block fw-700 text-black">Ejes del proyecto institucional</h2>
+    </div>
+  </div>
+  <div class="row mb-2">
+    <div class="col-12 position-relative">
+        <div id="particles-01" data-particle="true" data-particle-options="{&quot;particles&quot;: {&quot;number&quot;: {&quot;value&quot;: 10,&quot;density&quot;: {&quot;enable&quot;: true,&quot;value_area&quot;: 1000}},&quot;color&quot;:{&quot;value&quot;:[&quot;#0072ae&quot;, &quot;#c83c2d&quot;]},&quot;shape&quot;: {&quot;type&quot;: &quot;circle&quot;,&quot;stroke&quot;:{&quot;width&quot;:0,&quot;color&quot;:&quot;#737373&quot;}},&quot;opacity&quot;: {&quot;value&quot;: 0.7,&quot;random&quot;: false,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;speed&quot;: 1,&quot;sync&quot;: false}},&quot;size&quot;: {&quot;value&quot;: 7,&quot;random&quot;: true,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;sync&quot;: true}},&quot;move&quot;: {&quot;enable&quot;: true,&quot;speed&quot;:1,&quot;direction&quot;: &quot;right&quot;,&quot;random&quot;: false,&quot;straight&quot;: false}},&quot;interactivity&quot;: {&quot;detect_on&quot;: &quot;canvas&quot;,&quot;events&quot;: {&quot;onhover&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;repulse&quot;},&quot;onclick&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;push&quot;},&quot;resize&quot;: false}},&quot;retina_detect&quot;: false}" class="position-absolute top-50px left-0px w-100 z-index-minus-1"><canvas class="particles-js-canvas-el" width="1634" height="817" style="width: 100%; height: 100%;"></canvas></div>
+      <div class="outside-box-right-15 outside-box-left-15 lg-outside-box-right-30 lg-outside-box-left-30 md-outside-box-right-40 md-outside-box-left-40 sm-outside-box-right-0 sm-outside-box-left-0">
+        <div class="swiper" data-slider-options='{
+          "slidesPerView": 1,
+          "spaceBetween": 30,
+          "loop": true,
+          "autoplay": { "delay": 8000, "disableOnInteraction": false },
+          "pagination": {
+            "el": ".slider-four-slide-pagination-1",
+            "clickable": true,
+            "dynamicBullets": false
+          },
+          "keyboard": { "enabled": true, "onlyInViewport": true },
+          "breakpoints": {
+            "1200": { "slidesPerView": 4 },
+            "992": { "slidesPerView": 3 },
+            "768": { "slidesPerView": 3 }
+          },
+          "effect": "slide"
+        }'>
+          <div class="swiper-wrapper pt-20px pb-20px">
+            <!-- Acá irían los slides -->
+
+                      <!-- start slider item --> 
+                                    
+                                    <!-- end slider item -->
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item -->
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item --> 
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item --> 
+                                    <!-- start slider item --> 
+                                    
+                                    <!-- end slider item -->
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item -->
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item --> 
+                                    <!-- start slider item -->
+                                    
+                                    <!-- end slider item --> 
+                                <div class="swiper-slide" role="group" aria-label="6 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="5"> 
+                                        <!-- start review item -->
+                                        
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-red me-auto xs-fs-15">LA ESPIRITUALIDAD: ASPECTO TRASCENDENTE DE LA PERSONA</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center bg-white border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> • Fomentar el autoconocimiento y el crecimiento personal. 
+                                                     
+                                                     • Construir su propósito de vida a través del descubrimiento de los propios dones y talentos
+                                                 
+                                              • Promover el encuentro con el Dios de la vida que está presente y obra en todo momento en el alma de la persona.
+                                                     • Crecer en el vínculo con la Virgen María como Madre y Educadora en el camino de la Fe. 
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div><div class="swiper-slide" role="group" aria-label="7 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="6"> 
+                                        <!-- start review item -->
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-dark-gray me-auto xs-fs-15">LENGUAJE DE LAS ARTES Y LOS MEDIOS. CREATIVIDAD.</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> Utilizar todos los medios y materiales de expresión creativa: música, pintura, escultura, teatro, cine, literatura, fotografía. para:
+•⁠  ⁠Conectar con su ser y sus emociones.
+•⁠  ⁠Favorecer el desarrollo de la imaginación y en relación con esto, la capacidad de reflexión, de comunicación y de creatividad
+•⁠  ⁠Aumentar la confianza y la autoestima.
+•⁠  ⁠Conocer y descubrir las diferentes expresiones culturales de la historia y del mundo.
+•⁠  ⁠Desarrollar el hábito lector 
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div><div class="swiper-slide" role="group" aria-label="8 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="7"> 
+                                        <!-- start review item -->
+                                       <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-jade me-auto xs-fs-15">EDUCACIÓN AMBIENTAL INTEGRAL</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> •⁠  ⁠Desarrollar el sentido esencial de convivencia con el planeta generando una conciencia ecológica y corresponsable.
+•⁠  ⁠Investigar y potenciar el uso de recursos limpios, nuevas tecnologías y energía que permita una relación responsable con el entorno (ecología, biourbanismo, consumo responsable)
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div><div class="swiper-slide swiper-slide-prev" role="group" aria-label="1 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="0"> 
+                                        <!-- start review item -->
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-majorelle-blue me-auto xs-fs-15">
+EDUCACIÓN DIGITAL Y PENSAMIENTO LÓGICO</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span>•⁠  ⁠Desarrollar el pensamiento lógico-matemático como una habilidad compleja que se compone de los cálculos matemáticos, el pensamiento lógico, el razonamiento inductivo y deductivo, la resolución de problemas, la identificación de patrones y relaciones, el planeamiento y la verificación de hipótesis, frente a diferentes estímulos.
+•⁠  ⁠Formar estudiantes que puedan desempeñar un rol activo, que entiendan las lógicas de la tecnología, puedan explorarla cada vez que aparecen nuevos desarrollos, elegir cómo usarla (o no) e incluso crearla.
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div><div class="swiper-slide swiper-slide-active" role="group" aria-label="2 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="1"> 
+                                        <!-- start review item -->
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-red me-auto xs-fs-15">IDIOMA: INGLÉS</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> •⁠  ⁠Proporcionar una visión amplia del mundo mediante el conocimiento de otras culturas y saberes, El aprendizaje del inglés como segunda lengua se torna una herramienta indispensable para la comunicación y mutuo enriquecimiento entre culturas.
+•⁠  ⁠Conectar con una sociedad global y no recortada a su entorno.
+•⁠  ⁠Completando la formación en la lengua extranjera ponemos a los alumnos en contacto con experiencias motivantes que los lleven a disfrutar y usar el inglés fuera de las aulas, en contextos novedosos.
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div><div class="swiper-slide swiper-slide-next" role="group" aria-label="3 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="2"> 
+                                        <!-- start review item -->
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-dark-gray me-auto xs-fs-15">CULTURA CORPORAL
+</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> •⁠  ⁠Promover hábitos saludables.
+•⁠  ⁠Favorecer la constitución de la corporeidad y motricidad de los sujetos, y en la apropiación de prácticas corporales vinculadas al conocimiento de sí mismo, de los pares, al desarrollo de las habilidades, al juego y al jugar, a la exploración del ambiente y a la expresión y comunicación.
+•⁠  ⁠Propiciar la exploración, la creatividad y el disfrute en la realización de actividades y juegos en el ambiente, fomentando hábitos y actitudes de cuidado de sí mismo y de las y los demás.
+•⁠  ⁠Impulsar el trabajo en equipo mediante juegos y actividades deportivas.
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                    </div>
+                                    <div class="swiper-slide" role="group" aria-label="4 / 8" style="width: 400.75px; margin-right: 30px;" data-swiper-slide-index="3"> 
+                                        <!-- start review item -->
+                                        <div class="review-style-05">
+                                        
+                                            <div class="border-radius-4px bg-white box-shadow-large last-paragraph-no-margin">
+                                            <div class="d-flex align-items-center border border-color-extra-medium-gray pt-15px pb-15px ps-45px pe-45px xl-ps-25px xl-pe-25px">
+                                                    <span class="fs-17 fw-600 text-green me-auto xs-fs-15">EMPRENDIMIENTOS</span>
+                                                
+                                                
+                                                </div>
+                                                <div class="d-flex align-items-center border border-color-extra-medium-gray ps-45px pe-45px pt-35px pb-35px xl-p-25px ">
+                                                    
+                                                    <span> •⁠  ⁠Estimular y potenciar los proyectos productivos.
+•⁠  ⁠Favorecer y dinamizar la planificación y puesta en marcha de proyectos prácticos en el contexto de la vida.
+                                                  </span>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                        <!-- end review item --> 
+                                
+                                  </div>
+                            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                        </div>
+                        <!-- start slider pagination -->
+                        <!--<div class="swiper-pagination slider-four-slide-pagination-1 swiper-pagination-style-2 swiper-pagination-clickable swiper-pagination-bullets"></div>-->
+                        <!-- end slider pagination -->
+                    </div>
+                </div>
+                <div class="row">
+                  
+                </div>
+            </div>
+        </section>
+        
+        <!-- start section --> 
+        
+        <section>
+<div class="container">
+                <div class="row justify-content-center mb-3">
+                    <div class="col-md-20 text-center">
+                        <h2 class=" text-dark-gray fw-700" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "filter": ["blur(20px)", "blur(0px)"], "string": ["Equipo de Orientación Escolar "], "duration": 500, "delay": 0, "speed": 20, "easing": "easeOutQuad" }'></h2>
+                        <h6 class="mb-0 xs-w-85"  data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 200, "easing": "easeOutQuad" }'>
+El Equipo de Orientación Escolar acompaña a los estudiantes de nivel inicial, primario y secundario, brindando apoyo en distintas situaciones. Con especialistas como psicólogas, psicopedagogas y fonoaudiólogas, trabajando para favorecer el bienestar y desarrollo integral de cada alumno.</h6>
+                    </div>
+                </div>
+                
+            </div>
+            </section>
+      
+                    
+        <section class="bg-white">
+            <div id="particles-01" data-particle="true" data-particle-options="{&quot;particles&quot;: {&quot;number&quot;: {&quot;value&quot;: 10,&quot;density&quot;: {&quot;enable&quot;: true,&quot;value_area&quot;: 1000}},&quot;color&quot;:{&quot;value&quot;:[&quot;#0072ae&quot;, &quot;#c83c2d&quot;]},&quot;shape&quot;: {&quot;type&quot;: &quot;circle&quot;,&quot;stroke&quot;:{&quot;width&quot;:0,&quot;color&quot;:&quot;#737373&quot;}},&quot;opacity&quot;: {&quot;value&quot;: 0.7,&quot;random&quot;: false,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;speed&quot;: 1,&quot;sync&quot;: false}},&quot;size&quot;: {&quot;value&quot;: 7,&quot;random&quot;: true,&quot;anim&quot;: {&quot;enable&quot;: false,&quot;sync&quot;: true}},&quot;move&quot;: {&quot;enable&quot;: true,&quot;speed&quot;:1,&quot;direction&quot;: &quot;right&quot;,&quot;random&quot;: false,&quot;straight&quot;: false}},&quot;interactivity&quot;: {&quot;detect_on&quot;: &quot;canvas&quot;,&quot;events&quot;: {&quot;onhover&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;repulse&quot;},&quot;onclick&quot;: {&quot;enable&quot;: false,&quot;mode&quot;: &quot;push&quot;},&quot;resize&quot;: false}},&quot;retina_detect&quot;: false}" class="position-absolute top-50px left-0px w-100 z-index-minus-1"><canvas class="particles-js-canvas-el" width="1634" height="817" style="width: 100%; height: 100%;"></canvas></div>
+            
+        </section>
+
+        <!-- end section --> 
+    <!-- start footer -->
+<footer class="cover-background background-position-center-top pb-0" style="background-image: url('foter.jpg'); margin-bottom: 0; padding-bottom: 0;">
+    <div class="border-bottom border-color-transparent-white-light pb-3 lg-pb-5 sm-pb-45px">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col text-center">
+                    <h4 class="mb-0 text-dark-gray alt-font fw-400">#ESPIRITU<a href="contacto" class="text-decoration-line-bottom-medium text-base-color">ESTRADA</a></h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center pt-5 pb-5 md-pt-45px md-pb-50px text-center text-sm-start">
+            <!-- start footer column -->
+            <div class="col-lg-3 col-md-12 col-sm-6 d-flex flex-column flex-md-row flex-lg-column align-items-md-center align-items-lg-start last-paragraph-no-margin md-mb-35px">
+                <a href="demo-charity.html" class="footer-logo d-inline-block xs-mb-15px">
+                    <img src="https://saucovision.com/projects/estrada/html/lijh.png" data-at2x="https://saucovision.com/projects/estrada/html/lijh.png" alt="">
+                </a>
+                <div class="mt-auto ms-md-auto ms-lg-0 ms-0">
+                    <span class="fs-14 text-uppercase text-dark-gray fw-500 ls-1px">Desde</span>
+                    <h5 class="alt-font fw-400 text-base-color mb-0">1956</h5>
+                </div>
+            </div>
+            <!-- end footer column -->
+            <!-- start footer column -->
+            <div class="col-lg-3 col-md-4 col-sm-6 sm-mb-35px">
+                <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">Contacto administrativo</span>
+                <p class="w-70 text-light-conch-green mb-10px xl-w-80 lg-w-100">Diag. 3 e/ 473 y 473 bis, City Bell, Buenos Aires, Argentina</p>
+                <div class="text-dark-gray">
+                    <i class="feather icon-feather-phone-call fs-16 me-10px text-base-color"></i>
+                    <a href="tel:2215905955">221 590 5955</a>
+                </div>
+                <div>
+                    <i class="feather icon-feather-mail fs-16 me-10px text-base-color"></i>
+                    <a href="mailto:info@ijmecitybell.edu.ar" class="text-dark-gray text-decoration-line-bottom">info@ijmecitybell.edu.ar</a>
+                </div>
+            </div>
+            <!-- end footer column --> 
+            <!-- start footer column -->
+            <div class="col-xxl-4 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin xs-mb-35px">
+                <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">#EspirituEstrada</span>
+                <p class="w-70 text-light-conch-green xl-w-100">“Antes de ser educado, cada uno anhela ser comprendido” (P. José Kentenich)</p> 
+            </div>
+            <!-- end footer column -->
+            <!-- start footer column -->
+            <div class="col-xxl-2 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin">
+                <span class="d-block text-dark-gray mb-15px fs-14 text-uppercase fw-500 ls-1px">Seguinos</span>
+                <div class="elements-social social-icon-style-09">
+                    <ul class="medium-icon dark">
+                        <li><a class="facebook" href="https://www.facebook.com/ijmecitybell/?locale=es_LA" target="_blank"><i class="fa-brands fa-facebook-f"></i><span></span></a></li>
+                        <li><a class="instagram" href="https://www.instagram.com/ijmecitybell/" target="_blank"><i class="fa-brands fa-instagram"></i><span></span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <!-- end footer column -->
+        </div>
+    </div>
+    <div class="pt-15px pb-15px bg-racing-green" style="margin-bottom: 0; padding-bottom: 0;">
+        <div class="container">
+            <div class="row align-items-center"> 
+                <div class="col-lg-7 text-center text-lg-start md-mb-5px"> 
+                    <ul class="footer-navbar"> 
+                        <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                        <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                        <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                        <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                        <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                        <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                        <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                        <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                        <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                    </ul>
+                </div> 
+                <div class="col-lg-5 text-center text-lg-end">
+                    <span class="fs-15 text-light-conch-green">&copy; 2024 IJME Powered by <a href="https://www.saucovision.com/" target="_blank" class="text-decoration-line-bottom text-white">SaucoVision</a></span>
+                </div> 
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- end footer -->
+
+        <!-- end footer -->
+         <!-- start scroll progress -->
+        <div class="scroll-progress d-none d-xxl-block">
+          <a href="#" class="scroll-top" aria-label="scroll">
+            <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+          </a>
+        </div>
+        <!-- end scroll progress -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/vendors.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>

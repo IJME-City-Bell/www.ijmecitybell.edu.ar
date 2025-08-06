@@ -1,0 +1,698 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Nivel Secundario - Instituto José Manuel Estrada</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="author" content="SaucoVision">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+        <meta name="description" content="Colegio Jose Manuel Estrada City Bell.">
+        <!-- favicon icon -->
+        <link rel="shortcut icon" href="logochi.png">
+        <link rel="apple-touch-icon" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="logochi.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="logochi.png">
+        <!-- google fonts preconnect -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <!-- style sheets and font icons  -->
+        <link rel="stylesheet" href="css/vendors.min.css"/>
+        <link rel="stylesheet" href="css/icon.min.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
+        <link rel="stylesheet" href="css/responsive.css"/>
+        <link rel="stylesheet" href="demos/charity/charity.css" />
+    </head>
+    <body data-mobile-nav-style="classic">
+        <!-- start header -->
+        <header class="header-with-topbar"> 
+            <div class="header-top-bar top-bar-light bg-gradient-corduroy-green-dark-goldenrod disable-fixed">
+                <div class="container-fluid">
+                    <div class="row h-42px align-items-center justify-content-center">
+                        <div class="col-auto text-center">
+                            <span class="bg-black-transparent-light ps-15px pe-15px d-inline-block align-middle fs-10 text-uppercase text-white border-radius-4px fw-700 me-15px lh-26">Instituto Jose Manuel Estrada</span>
+                            <div class=" d-inline-block align-middle fs-12 text-white text-uppercase fw-500">Inscripciones 2025. <a href="contacto" class="text-decoration-line-bottom text-white">contáctanos</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+            <!-- start navigation -->
+            <nav class="navbar navbar-expand-lg header-light border-bottom border-color-transparent-dark-very-light  disable-fixed background-position-left-top" style="background-image: url('images/demo-charity-home-bg-01.jpg')">
+                <div class="container-fluid justify-content-lg-start">
+                    <div class="col-auto">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="default-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="alt-logo">
+                            <img src="logoijme.png" data-at2x="logoijme.png" alt="" class="mobile-logo"> 
+                        </a>
+                    </div>
+                    <div class="col-auto menu-order left-nav">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                            <span class="navbar-toggler-line"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav"> 
+                            <ul class="navbar-nav"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                  <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-auto ms-auto d-none d-xl-flex">
+                        <div class="header-icon">
+                        
+                            <div class="header-button"><a href="contacto" class="btn btn-very-small btn-dark-gray btn-box-shadow btn-round-edge">Inscribite</a></div>
+                        </div> 
+                    </div>
+                </div>
+            </nav>
+            <!-- start push popup --> 
+        </header>
+        <!-- end header -->
+             <!-- start page title -->
+        <section class="page-title-big-typography cover-background" style="background-image: url(porp.jpg)">
+            <div class="container">
+                <div class="row align-items-center small-screen">
+                    <div class="col-10 col-sm-12 position-relative page-title-extra-large">
+                        <h1 class="alt-font text-white mb-10px ls-minus-1px fw-700" data-fancy-text='{ "opacity": [0, 1], "translateY": [50, 0], "filter": ["blur(20px)", "blur(0px)"], "string": ["Nivel Secundario"], "duration": 500, "delay": 0, "speed": 50, "easing": "easeOutQuad" }'></h1>
+                       
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end page title -->
+
+        <!-- end page title -->
+<section>
+            <div class="container">
+                <div class="row justify-content-center mb-3">
+                    <div class="col-12 col-lg-6 text-center">
+                     
+                        <h2 class="alt-font text-dark-gray fw-800">Información importante</h2>
+                    </div>
+                </div>
+                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center">
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
+                        <div class="feature-box border-radius-10px p-15 lg-pt-15 lg-pb-15 lg-ps-10 lg-pe-10 last-paragraph-no-margin">
+                            <div class="feature-box-icon">
+                                <i class="line-icon-Clock icon-double-large text-base-color mb-25px"></i>
+                            </div>
+                            <div class="feature-box-content">
+                                <span class="d-inline-block alt-font text-dark-gray fw-700 fs-19 mb-10px">Horario</span>
+                                <p>De 7:15 a 12:45</p>
+                            </div>
+                            <div class="feature-box-overlay bg-solitude-blue border-radius-10px"></div>
+                        </div>  
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
+                        <div class="feature-box border-radius-10px box-shadow-quadruple-large-hover bg-solitude-blue p-15 lg-pt-15 lg-pb-15 lg-ps-10 lg-pe-10 last-paragraph-no-margin">
+                            <div class="feature-box-icon">
+                                <i class="line-icon-Map-Marker2
+ icon-double-large text-base-color mb-25px"></i>
+                            </div>
+                            <div class="feature-box-content">
+                                <span class="d-inline-block alt-font text-dark-gray fw-700 fs-19 mb-10px">Dirección</span>
+                                <p>Diag. 3 entre 473 y 473 bis.</p>
+                                            
+                                            </div>
+                                            <div class="pricing-body pt-15px pb-25px">
+                                                <ul class="list-style-01 ps-0 mb-0">
+                                                 
+                                                </ul>
+                                            </div>
+                                            <div class="pricing-footer">
+                                                <a href="https://maps.app.goo.gl/N5P4K9D7MtHU7wXh8" class="text-decoration-line-bottom d-inline-block text-dark-gray fw-600 ls-minus-05px">Mapa</a>
+                               
+                            </div>
+                            
+                            <div class="feature-box-overlay bg-white border-radius-10px"></div>
+                        </div>  
+                    </div>
+                    <!-- end features box item -->
+                    <!-- start features box item -->
+                    <div class="col icon-with-text-style-04 transition-inner-all">
+                        <div class="feature-box border-radius-10px p-15 lg-pt-15 lg-pb-15 lg-ps-10 lg-pe-10 last-paragraph-no-margin">
+                            <div class="feature-box-icon">
+                                <i class="line-icon-Phone-2
+ icon-double-large text-base-color mb-25px"></i>
+                            </div>
+                            <div class="feature-box-content">
+                                <span class="d-inline-block alt-font text-dark-gray fw-700 fs-19 mb-10px">Contacto</span>
+                               <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href=https://wa.link/caejwm>221-590-5995</a></div>
+                                              
+                                                  <a href="mailto:info@ijmecitybell.edu.ar">info@ijmecitybell.edu.ar</a>
+                                
+                            </div>
+                            <div class="feature-box-overlay bg-solitude-blue border-radius-10px"></div>
+                        </div>  
+                    </div>
+                    <!-- end features box item -->
+                </div>
+            </div>
+        </section>
+        
+           <section class="big-section border-top border-color-extra-medium-gray">
+            <div class="container">
+                <div class="row justify-content-center mb-3">
+                    <div class="col-12 col-lg-10 text-center">
+                        <h2 class="fs-70 text-dark-gray fw-700 ls-minus-2px">Nuestro Nivel <span class="text-jade">Secundaio</span></h2>
+                    </div>
+                </div>
+            </div>
+        
+        <div class="cover-background" style="background-white">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-xl-12 position-relative blockquote-style-02 text-center">
+                        <!-- start blockquote -->
+                        
+                        <h5 class=" mb-20px fw-300 w-90 mx-auto">En el Nivel Secundario del Instituto José Manuel Estrada de City Bell, acompañamos a los jóvenes en su formación integral, ayudándolos a desarrollar su autonomía, pensamiento crítico y liderazgo. Promovemos un compromiso activo con la sociedad, una fe madura y una educación de excelencia que los prepare para los desafíos del futuro.</h5>
+         <p>                                 
+</p>
+                        <!-- end blockquote -->
+                    </div>
+                </div> 
+            </div>
+        </div>
+     </section>
+    
+      
+        
+         <section class="bg-very-light-gray">
+            <div class="container">
+                <div class="row mb-5">
+                    <div class="col-lg-12 text-center">
+                        <h3 class="mb-0 alt-font text-dark-gray fw-700">Autoridades</h3>
+                    </div>
+                </div> 
+                <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center">
+                    <!-- start team member item --> 
+                    <div class="col text-center team-style-11 mb-30px last-paragraph-no-margin">
+                        <simg src="https://via.placeholder.com/255x255" class="mb-10px d-block mx-auto rounded-circle" alt="" data-no-retina="">
+                        <span class="d-inline-block fs-19 fw-700 alt-font text-dark-gray">Director</span>
+                        <p>Gerónimo Barneche</p> 
+                    </div>
+                    <!-- end team member item --> 
+                    <!-- start team member item --> 
+                    <div class="col text-center team-style-11 mb-30px last-paragraph-no-margin">
+                        <simg src="https://via.placeholder.com/255x255" class="mb-10px d-block mx-auto rounded-circle" alt="" data-no-retina="">
+                        <span class="d-inline-block fs-19 fw-700 alt-font text-dark-gray">Vicedirectora</span>
+                        <p>Mariana Dellapé</p> 
+                    </div>
+                    <!-- end team member item --> 
+                
+                    <!-- start team member item --> 
+                    <div class="col text-center team-style-11 mb-30px last-paragraph-no-margin">
+                        <simg src="https://via.placeholder.com/255x255" class="mb-10px d-block mx-auto rounded-circle" alt="" data-no-retina="">
+                        <span class="d-inline-block fs-19 fw-700 alt-font text-dark-gray">Vicedirectora</span>
+                        <p>Noelia Orienti</p> 
+                    </div>
+                    <!-- end team member item -->
+                        <!-- start team member item --> 
+                    <div class="col text-center team-style-11 mb-30px last-paragraph-no-margin">
+                        <simg src="https://via.placeholder.com/255x255" class="mb-10px d-block mx-auto rounded-circle" alt="" data-no-retina="">
+                        <span class="d-inline-block fs-19 fw-700 alt-font text-dark-gray">Secretaria</span>
+                        <p>Lucía Alvarez</p> 
+                    </div>
+                    <!-- end team member item -->
+                     
+                </div>
+            </div>
+        </section>
+             <section class="bg-very-light-gray">
+           <div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h3 class="mb-0 alt-font text-dark-gray fw-700">Descubrí Nuestras Aulas y Espacios</h3>
+    </div>
+  </div>
+</div>
+</section>
+<section class="ps-5 pe-5 lg-ps-2 lg-pe-2 bg-very-light-gray pt-2"> <!-- agregamos pt-2 si querés un mínimo espacio -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col">
+        <!-- Tus imágenes acá -->
+            <ul class="image-gallery-style-02 gallery-wrapper grid grid-4col xxl-grid-4col xl-grid-4col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-large position-relative">
+
+                            <li class="grid-sizer"></li>
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch atropos-active" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 0%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 50px); transition-duration: 300ms; transition-timing-function: ease-out;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0%, 0%, 0px) rotateX(-15deg) rotateY(13.044852deg); transition-timing-function: ease-out;">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(2.60897%, 3%, 0px); transition-timing-function: ease-out;"> 
+                                            <div class="gallery-box">
+                                                <a href="pag16.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag16.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(-21.741419%, -25%, 0px); transition-duration: 300ms; opacity: 1; transition-timing-function: ease-out;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms; transition-timing-function: ease-out;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 24.999538%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag17.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag17.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 49.999076%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag18.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag18.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 74.998615%; top: 0px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag20.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag20.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 0%; top: 394px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag19.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag19.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 24.999538%; top: 394px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag21.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag21.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 49.999076%; top: 394px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag22.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag22.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                            </li>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <li class="grid-item transition-inner-all atropos atropos-rotate-touch" data-atropos="" data-atropos-perspective="1150" style="position: absolute; left: 74.998615%; top: 394px;">
+                                <div class="atropos-scale" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms;">
+                                    <div class="atropos-rotate" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg);">
+                                        <div class="atropos-inner" data-atropos-offset="3" style="transition-duration: 300ms; transform: translate3d(0px, 0px, 0px);"> 
+                                            <div class="gallery-box">
+                                                <a href="pag23.jpg" data-group="lightbox-group-gallery-item-2" title="">
+                                                    <div class="position-relative gallery-image bg-slate-blue">
+                                                        <img src="pag23.jpg" alt="" data-no-retina="">
+                                                        <div class="d-flex align-items-center justify-content-center position-absolute top-0px left-0px w-100 h-100 gallery-hover move-bottom-top">
+                                                            <i class="bi bi-camera icon-medium text-white"></i>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        <span class="atropos-highlight" style="transform: translate3d(0px, 0px, 0px); transition-duration: 300ms; opacity: 0;"></span></div>
+                                    <span class="atropos-shadow" style="transform: translate3d(0px, 0px, -50px) scale(1); transition-duration: 300ms;"></span></div>
+                                </div>
+                                <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Detectar si es un dispositivo móvil
+    function isMobile() {
+        return window.innerWidth <= 768;
+    }
+
+    if (isMobile()) {
+        // Selecciona todos los elementos con data-atropos
+        const atroposElements = document.querySelectorAll('[data-atropos]');
+
+        atroposElements.forEach(el => {
+            el.removeAttribute('data-atropos');
+            el.classList.remove('atropos', 'atropos-rotate-touch');
+
+            // También eliminamos las capas internas para evitar que sigan afectando el DOM
+            const inner = el.querySelector('.atropos-inner');
+            const rotate = el.querySelector('.atropos-rotate');
+            const scale = el.querySelector('.atropos-scale');
+            const highlight = el.querySelector('.atropos-highlight');
+            const shadow = el.querySelector('.atropos-shadow');
+
+            if (highlight) highlight.remove();
+            if (shadow) shadow.remove();
+
+            // Reemplazamos la estructura por el contenido real
+            if (inner && rotate && scale) {
+                el.innerHTML = inner.innerHTML;
+            }
+        });
+    }
+});
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const grid = document.querySelector(".gallery-wrapper");
+
+  if (grid) {
+    const items = grid.querySelectorAll(".grid-item");
+    let maxBottom = 0;
+
+    items.forEach(item => {
+      const itemRect = item.getBoundingClientRect();
+      const gridRect = grid.getBoundingClientRect();
+      const bottom = itemRect.top + item.offsetHeight - gridRect.top;
+      if (bottom > maxBottom) maxBottom = bottom;
+    });
+
+    grid.style.height = `${maxBottom}px`;
+  }
+});
+</script>
+
+
+                            </li>
+                            <!-- end gallery item -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section data-parallax-background-ratio="0.5" style="background-image: url(&quot;bee.jpg&quot;); background-position: 50% 146.4375px;">
+            <div class="opacity-medium bg-slate-blue"></div>
+            <div class="container position-relative">
+                <div class="row align-items-center justify-content-center">
+                    <!-- start footer column -->
+                    <div class="col-xl-6 text-center text-xl-start lg-mb-30px">
+                        <h3 class="text-white mb-5px fw-500 ls-minus-1px">Sumate al #ESPIRITUESTRADA.</h3>
+                        <span class="fs-19 widget-text opacity-5 fw-300">Pre-inscribite o comunicate con nosotros.</span>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-xl-6 text-center text-xl-end">
+                        <a href="info@ijmecitybell.edu.ar" class="btn btn-extra-large btn-white left-icon btn-box-shadow btn-rounded text-transform-none fw-600 primary-font ls-0px d-inline-block align-middle me-15px xs-m-10px"><i class="feather icon-feather-mail"></i>Email</a>
+                        <a href="https://wa.link/caejwm" class="btn btn-extra-large btn-white left-icon btn-box-shadow btn-rounded fw-600 primary-font ls-0px d-inline-block align-middle xs-m-10px"><i class="feather icon-feather-phone-call"></i>221-590-5995</a>
+                    </div>
+                    <!-- end footer column -->
+                </div>
+            </div>
+        </section>
+<section class="ps-2 pe-2">
+            <div class="container-fluid"> 
+                <div class="row">
+                    <div class="col sm-p-0">
+                        <div class="justified-gallery image-gallery-style-06 appear anime-child anime-complete" data-justified-options="{ &quot;rowHeight&quot;: 500, &quot;maxRowHeight&quot;: false, &quot;captions&quot;: false, &quot;margins&quot;: 15, &quot;waitThumbnailsLoad&quot;: true }" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [0, 0],&quot;opacity&quot;: [0,1], &quot;duration&quot;: 500, &quot;delay&quot;: 200, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="height: 1205.449617px;">
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 457px; height: 609.031998px; top: 15px; left: 15px;">
+                                <a href="pa1.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pas1.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 837px; height: 609.031998px; top: 15px; left: 487px;">
+                                <a href="pa2.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pa2.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 453px; height: 609.031998px; top: 15px; left: 1339px;">
+                                <a href="pa3.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pa3.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 689px; height: 551.417619px; top: 639.031998px; left: 15px;">
+                                <a href="pa4.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pa4.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 368px; height: 551.417619px; top: 639.031998px; left: 719px;">
+                                <a href="pa5.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pa5.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- end gallery item -->
+                            <!-- start gallery item -->
+                            <div class="gallery-box transition-inner-all jg-entry jg-entry-visible" style="width: 690px; height: 551.417619px; top: 639.031998px; left: 1102px;">
+                                <a href="pa6.jpg" data-group="lightbox-group-gallery-item-6" title="">
+                                    <div class="position-relative bg-dark-gray">
+                                        <img src="pa6.jpg" alt="" data-no-retina="">
+                                        <div class="d-flex align-items-center flex-column justify-content-end h-100 w-100 gallery-hover p-45px">
+                                            <i class="icon feather icon-feather-search icon-very-medium text-white absolute-middle-center"></i>
+                                            <span class="gallery-title text-white fs-18"></span>
+                                        </div>
+                                    </div>
+                                    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Detectar si es un dispositivo móvil
+    function isMobile() {
+        return window.innerWidth <= 768;
+    }
+
+    if (isMobile()) {
+        // Selecciona todos los elementos con data-atropos
+        const atroposElements = document.querySelectorAll('[data-atropos]');
+
+        atroposElements.forEach(el => {
+            el.removeAttribute('data-atropos');
+            el.classList.remove('atropos', 'atropos-rotate-touch');
+
+            // También eliminamos las capas internas para evitar que sigan afectando el DOM
+            const inner = el.querySelector('.atropos-inner');
+            const rotate = el.querySelector('.atropos-rotate');
+            const scale = el.querySelector('.atropos-scale');
+            const highlight = el.querySelector('.atropos-highlight');
+            const shadow = el.querySelector('.atropos-shadow');
+
+            if (highlight) highlight.remove();
+            if (shadow) shadow.remove();
+
+            // Reemplazamos la estructura por el contenido real
+            if (inner && rotate && scale) {
+                el.innerHTML = inner.innerHTML;
+            }
+        });
+    }
+});
+</script>
+
+                                </a>
+                            </div>
+                            <!-- end gallery item --> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+<!-- start footer -->
+     <!-- start footer -->
+        <footer class="cover-background background-position-center-top pb-0" style="background-image: url('foter.jpg')">
+            <div class="border-bottom border-color-transparent-white-light pb-3 lg-pb-5 sm-pb-45px">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col text-center">
+                            <h4 class="mb-0 text-dark-gray alt-font fw-400">#ESPIRITU<a href="contacto" class="text-decoration-line-bottom-medium text-base-color">ESTRADA</a></h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center pt-5 pb-5 md-pt-45px md-pb-50px text-center text-sm-start">
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-12 col-sm-6 d-flex flex-column flex-md-row flex-lg-column align-items-md-center align-items-lg-start last-paragraph-no-margin md-mb-35px">
+                        <a href="demo-charity.html" class="footer-logo d-inline-block xs-mb-15px"><img src="https://saucovision.com/projects/estrada/html/lijh.png" data-at2x="https://saucovision.com/projects/estrada/html/lijh.png" alt=""></a>
+                        <div class="mt-auto ms-md-auto ms-lg-0 ms-0">
+                            <span class="fs-14 text-uppercase text-dark-gray fw-500 ls-1px">Desde</span>
+                            <h5 class="alt-font fw-400 text-base-color mb-0">1956</h5>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-lg-3 col-md-4 col-sm-6 sm-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">Contacto administrativo</span>
+                        <p class="w-70 text-light-conch-green mb-10px xl-w-80 lg-w-100">Diag. 3 e/ 473 y 473 bis, City Bell, Buenos Aires, Argentina</p>
+                        <div class="text-dark-gray"><i class="feather icon-feather-phone-call fs-16 me-10px text-base-color"></i><a href="tel:2215905955">221 590 5955</a></div>
+                        <div><i class="feather icon-feather-mail fs-16 me-10px text-base-color"></i><a href="mailto:info@ijmecitybell.edu.ar" class="text-dark-gray text-decoration-line-bottom">info@ijmecitybell.edu.ar</a></div>
+                    </div>
+                    <!-- end footer column --> 
+                    <!-- start footer column -->
+                    <div class="col-xxl-4 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin xs-mb-35px">
+                        <span class="d-block text-dark-gray mb-5px fs-14 text-uppercase fw-500 ls-1px">#EspirituEstrada</span>
+                        <p class="w-70 text-light-conch-green xl-w-100">“Antes de ser educado, cada uno anhela ser comprendido”          (P. José Kentenich)</p> 
+                    </div>
+                    <!-- end footer column -->
+                    <!-- start footer column -->
+                    <div class="col-xxl-2 col-lg-3 col-md-4 col-sm-6 last-paragraph-no-margin">
+                        <span class="d-block text-dark-gray mb-15px fs-14 text-uppercase fw-500 ls-1px">Seguinos</span>
+                        <div class="elements-social social-icon-style-09">
+                            <ul class="medium-icon dark">
+                                <li><a class="facebook" href="https://www.facebook.com/ijmecitybell/?locale=es_LA" target="_blank"><i class="fa-brands fa-facebook-f"></i><span></span></a></li>
+                                <li><a class="instagram" href="https://www.instagram.com/ijmecitybell/" target="_blank"><i class="fa-brands fa-instagram"></i><span></span></a></li>
+                                  
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- end footer column -->
+                </div>
+            </div>
+            <div class="pt-15px pb-15px bg-racing-green">
+                <div class="container">
+                    <div class="row align-items-center"> 
+                        <div class="col-lg-7 text-center text-lg-start md-mb-5px"> 
+                            <ul class="footer-navbar"> 
+                                <li class="nav-item"><a href="index.html" class="nav-link">Inicio</a></li>
+                                <li class="nav-item"><a href="institucional" class="nav-link">Institucional</a></li>
+                                <li class="nav-item"><a href="propuesta-educativa" class="nav-link">Propuesta educativa</a></li>
+                                <li class="nav-item"><a href="inicial" class="nav-link">Nivel Inicial</a></li>
+                                <li class="nav-item"><a href="primaria" class="nav-link">Nivel Primario</a></li>
+                                <li class="nav-item"><a href="secundaria" class="nav-link">Nivel Secundario</a></li>
+                                <li class="nav-item"><a href="pastoral" class="nav-link">Pastoral</a></li>
+                                <li class="nav-item"><a href="contacto" class="nav-link">Contacto</a></li>
+                                                            <li class="nav-item"><a href="archivos" class="nav-link">Documentación</a></li>
+                            </ul>
+                        </div> 
+                        <div class="col-lg-5 text-center text-lg-end">
+                            <span class="fs-15 text-light-conch-green">&copy; 2024 IJME Powered by <a href="https://www.saucovision.com/" target="_blank" class="text-decoration-line-bottom text-white">SaucoVision</a></span>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- end footer -->
+
+         <!-- start scroll progress -->
+        <div class="scroll-progress d-none d-xxl-block">
+          <a href="#" class="scroll-top" aria-label="scroll">
+            <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+          </a>
+        </div>
+        <!-- end scroll progress -->
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/vendors.min.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
